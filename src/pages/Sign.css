@@ -1,0 +1,67 @@
+.card1 {
+    background-color: aqua;
+    margin-top: 2% !important;
+    padding-top: 1% !important;
+    background-color: black;
+    width: 40% !important;
+    color: whitesmoke !important;
+    border-radius: 20px;
+    box-shadow: 4px 4px 6px;
+
+    input {
+        width: 80% !important;
+        margin-left: 7% !important;
+    }
+
+    button {
+        margin-top: 5%;
+
+    }
+}
+.card3 {
+    background-color: aqua;
+    margin-top: 2% !important;
+    padding-top: 1% !important;
+    background-color: black;
+    width: 40% !important;
+    color: whitesmoke !important;
+    border-radius: 20px;
+    box-shadow: 4px 4px 6px;
+
+    input {
+        width: 80% !important;
+        margin-left: 7% !important;
+    }
+
+    button {
+        margin-top: 5%;
+
+    }
+}
+@media only screen and (max-width: 768px) {
+    .card1 {
+        padding-top: 11% !important;
+        background-color: aqua;
+        margin-top: 2% !important;
+        padding: 8% !important;
+        background-color: black;
+        width: 90% !important;
+
+        input {
+            width: 70% !important;
+            margin-left: -10% !important;
+        }
+    }
+    .card3 {
+        padding-top: 11% !important;
+        background-color: aqua;
+        margin-top: 2% !important;
+        padding-left: 5%;
+        background-color: black;
+        width: 90% !important;
+
+        input {
+            width: 70% !important;
+        }
+    }
+}
